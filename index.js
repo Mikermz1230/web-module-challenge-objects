@@ -16,7 +16,12 @@ The function should:
 */
 
 function createMenuItem(/*Your code here*/){
-    /*Your code here*/
+  export const burger = {
+    name: "Burger", 
+    price: 18, 
+    category: "Lunch", 
+  }
+  
 }
 
 /* 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀 Task 1b: 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀
